@@ -1,0 +1,1 @@
+Dự án bán sách trực tuyến BookOnline. Được xây dựng và quản lý bởi nhóm quản lý D05CNTT2. Thời gian để hoàn thành là 1 tháng
